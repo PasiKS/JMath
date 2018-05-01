@@ -1,0 +1,11 @@
+ilmio,ilmioidenMaara,kysymys,alaraja,ylaraja,oletusyksikko,vaihtoehtoinenYksikko,muunnoskerroin,tarkkuus1,tarkkuus2,tarkkuus3,vastausteksti,pisteet,sisalto
+heittää kiekkoa,2,Montako prosenttia ensimmäisen heittäjän heiton pituus on toisen heittäjän heiton pituudesta?,,,,,,,,,Ensin mainitun henkilön heiton pituus on vastaus prosenttia toiseksi mainitun henkilön heiton pituudesta.,4,PROSENTTILUKU
+juoksee Cooperissa,1,Montako mittayksikko2 on muuttuja prosenttia koko matkasta?,30,80,metriä,kilometriä,0.001,10,1,1,Se on vastaus mittayksikko2.,4,PROSENTTIARVO
+heittää kiekkoa,1,Montako mittayksikko2 hänen tulisi heittää parantaakseen tulostaan muuttuja prosenttia?,3,12,metriä,senttimetriä,100,1.0,0.01,0.01,Hänen pitäisi heittää vastaus mittayksikko2.,4,LISAANTYNYTARVO
+hyppää pituutta,1,Toisella hyppykierroksella hän hyppää muuttuja prosenttia vähemmän. Montako mittayksikko2 on hänen toinen hyppynsä?,2,10,metriä,senttimetriä,100,1.0,0.01,0.01,Hänen toinen hyppynsä on vastaus mittayksikko2.,4,VAHENTYNYTARVO
+juoksee sata metriä aikaan,1,Hän asettaa tavoitteekseen parantaa muuttuja prosenttia. Mihin aikaan (mittayksikko2) hänen tulisi satanen juosta saavuttaakseen tavoitteensa?,2,6,sekuntia,sekuntia,1.0,1.0,0.1,0.01,Hänen tulisi juosta satanen aikaan vastaus mittayksikko2.,4,VAHENTYNYTARVO
+työntää kuulaa,1,Seuraavana vuonna hän työntää kuulaa muuttuja mittayksikko2 pidemmälle. Montako prosenttia hän parantaa tulostaan?,50,400,senttimetriä,senttimetriä,1.0,10.0,1.0,1.0,Hänen pitäisi työntää vastaus mittayksikko2 pidemmälle.,4,MUUTOSPROSENTTI
+juoksee Cooperissa,2,Montako prosenttia subjekti1 juoksee vähemmän kuin subjekti2?,,,,,,,,,subjekti1 juoksee vastaus prosenttia vähemmän kuin subjekti2.,4,VERTAILUPROSENTTIVAHEMMAN
+työntää kuulaa,2,Montako prosenttia subjekti2 työntää enemmän kuinsubjekti1?,,,,,,,,,subjekti2 työntää vastaus prosenttia ennemän kuin subjekti1.,4,VERTAILUPROSENTTIENEMMAN
+hyppää korkeutta,1,Mistä korkeudesta (mittayksikko2) se on muuttuja prosenttia?,80,96,metriä,senttimetriä,100,1.0,1.0,1.0,Se on korkeudesta vastaus mittayksikko2.,4,PERUSARVO
+saa rahapalkinnon,1,Hän tallettaa sen pankkiin kasvamaan korkoa muuttuja prosenttia vuodessa. Kuinka paljon talletuksen suuruus on yhden vuoden kuluttua?,0.5,3,euroa,euroa,1,0.01,0.01,0.01,Se on vastaus euroa.,4,KORKO

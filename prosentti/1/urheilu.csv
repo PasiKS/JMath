@@ -1,0 +1,11 @@
+ilmio,ilmioidenMaara,kysymys,alaraja,ylaraja,oletusyksikko,vaihtoehtoinenYksikko,muunnoskerroin,tarkkuus1,tarkkuus2,tarkkuus3,vastausteksti,pisteet,sisalto
+hyppää pituutta,1,Hän parantaa toisella hypyllä muuttuja prosenttia. Kuinka monta mittayksikko2 hän parantaa?,2,8,metriä,metriä,1,0.01,0.01,0.01,Hän parantaa vastaus mittayksikko2.,4,PROSENTTIARVO
+juoksee sata metriä aikaan,1,Hän parantaa toisella kerralla muuttuja prosenttia. Kuinka monta mittayksikko2 hän parantaa?,2,8,sekuntia,sekuntia,1,0.1,0.01,0.01,Hän parantaa vastaus mittayksikko2.,4,PROSENTTIARVO
+työntää kuulaa,1,Hän parantaa toisella työnnöllään muuttuja prosenttia. Kuinka monta mittayksikko2 hän parantaa?,2,8,metriä,metriä,1,0.01,0.01,0.01,Hän parantaa vastaus mittayksikko2.,4,PROSENTTIARVO
+juoksee Cooperissa,1,Hän parantaa toisella kerralla muuttuja prosenttia. Kuinka monta mittayksikko2 hän parantaa?,2,8,metriä,metriä,1,0.1,0.1,0.1,Hän parantaa vastaus mittayksikko2.,4,PROSENTTIARVO
+hyppää korkeutta,1,Hän parantaa toisella hypyllä muuttuja prosenttia. Kuinka monta mittayksikko2 hän parantaa?,2,8,metriä,metriä,1,0.01,0.01,0.01,Hän parantaa vastaus mittayksikko2.,4,PROSENTTIARVO
+hyppää pituutta,2,Montako prosenttia subjekti1n tulos on subjekti2n tuloksesta?,,,,,,,,,subjekti1n tulos on prosenttia subjekti2n tuloksesta.,4,PROSENTTILUKU
+heittää kiekkoa,2,Montako prosenttia subjekti1n tulos on subjekti2n tuloksesta?,,,,,,,,,subjekti1n tulos on prosenttia subjekti2n tuloksesta.,4,PROSENTTILUKU
+työntää kuulaa,2,Montako prosenttia subjekti1n tulos on subjekti2n tuloksesta?,,,,,,,,,subjekti1n tulos on prosenttia subjekti2n tuloksesta.,4,PROSENTTILUKU
+juoksee Cooperissa,2,Montako prosenttia subjekti1n tulos on subjekti2n tuloksesta?,,,,,,,,,subjekti1n tulos on prosenttia subjekti2n tuloksesta.,4,PROSENTTILUKU
+hyppää korkeutta,2,Montako prosenttia subjekti1n tulos on subjekti2n tuloksesta?,,,,,,,,,subjekti1n tulos on prosenttia subjekti2n tuloksesta.,4,PROSENTTILUKU

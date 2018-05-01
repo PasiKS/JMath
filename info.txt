@@ -1,0 +1,27 @@
+OPETTAJALLE
+
+Tämä ohjelma on tarkoitettu 
+perusopetuksen prosenttilaskennan harjoitusten ja koetehtävien eriyttämiseen.
+
+Täyttämällä tilauskaavakkeen ja painamalla tilaa-painiketta saa tekstitiedostoon (tehtavasarjat.txt)
+tilatut määrät eri tehtäväsarjoja. Oletusarvoisesti tehtäväsarjat sisältävät kymmenen tehtävää. 
+Tehtäväsarjojen ja niiden taustalla olevien ilmiöiden muuttaminen on mahdollista (ks. alla).
+
+Eriyttäminen tapahtuu kahdella tavalla 1) vaihtoehtoisilla aihealueilla ja 2) eri tasoilla.
+Taso 1 on vaatimuksiltaan alhaisin. Se on myös voimakkaasti sisällöltään karsittu.
+Taso 2 on hieman vaativampi, mutta sekään ei sisällä kaikkia perusopetuksen sisältöjä.
+Taso 3 on sisällöltään ja vaatimustasoltaan perusopetuksen oppimäärän täyttävä.
+
+
+Tehtävät perustuvat arkielämän ilmiöihin joissa esiintyvien suureiden arvot vaihtelevat satunnaisesti 
+realistisissa rajoissa. Ohjelman mukana tulevat tehtäväsarjoihin on koottu hieman eritasoisia 
+tehtäviä siten, että ne yhdessä muodostavat tietyn tason vaatimukset täyttävän kokonaisuuden.
+
+
+TEHTÄVIEN TEKIJÄLLE
+
+Ilmiöt ja tehtäväsarjat on tallennettuna csv-tyyppisessä tiedostossa. 
+Niihin voi lisätä ilmiöitä tai tehtäviä. Myös muuttaminen on mahdollista.
+
+Mikäli olet kiinnostunut ilmiöiden ja tehtävien kehittämisestä 
+tarvittavat lisätiedot tähän saat ohjelman kehittäjältä, Pasi Kiemalta: pasi.kiema@gmail.com.

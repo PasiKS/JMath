@@ -1,0 +1,57 @@
+ilmio,subjekti,alaraja,ylaraja,oletusyksikko,vaihtoehtoinenYksikko,muunnoskerroin,tarkkuus1,tarkkuus2,tarkkuus3 
+juoksee Cooperissa,Anna,2400,2600,metriä,kilometriä,0.001,100,10,10
+juoksee Cooperissa,Risto,2500,2700,metriä,kilometriä,0.001,100,10,10
+juoksee Cooperissa,Liisa,2600,2800,metriä,kilometriä,0.001,100,10,10
+juoksee Cooperissa,Esko,2700,2900,metriä,kilometriä,0.001,100,10,10
+juoksee Cooperissa,Marja,2800,3000,metriä,kilometriä,0.001,100,10,10
+juoksee Cooperissa,Veli,2900,3100,metriä,kilometriä,0.001,100,10,10
+juoksee Cooperissa,Heino,3000,3200,metriä,kilometriä,0.001,100,10,10
+työntää kuulaa,Liisa,5,7,metriä,senttimetriä,100,1,0.01,0.01
+työntää kuulaa,Esko,6,9,metriä,senttimetriä,100,1,0.01,0.01
+työntää kuulaa,Anna,8,10,metriä,senttimetriä,100,1,0.01,0.01
+työntää kuulaa,Risto,9,11,metriä,senttimetriä,100,1,0.01,0.01
+työntää kuulaa,Marja,10,12,metriä,senttimetriä,100,1,0.01,0.01
+työntää kuulaa,Heino,11,13,metriä,senttimetriä,100,1,0.01,0.01
+työntää kuulaa,Veli,12,14,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Esko,18,22,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Liisa,19,23,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Heino,20,25,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Anna,21,25,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Marja,22,27,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Veli,23,28,metriä,senttimetriä,100,1,0.01,0.01
+heittää kiekkoa,Risto,24,31,metriä,senttimetriä,100,1,0.01,0.01
+hyppää pituutta,Risto,3.60,4.00,metriä,senttimetriä,100,0.10,0.01,0.01
+hyppää pituutta,Anna,3.70,4.10,metriä,senttimetriä,100,0.10,0.01,0.01
+hyppää pituutta,Liisa,3.80,4.20,metriä,senttimetriä,100,0.10,0.01,0.01
+hyppää pituutta,Marja,3.90,4.50,metriä,senttimetriä,100,0.10,0.01,0.01
+hyppää pituutta,Veli,4.00,4.60,metriä,senttimetriä,100,0.10,0.01,0.01
+hyppää pituutta,Heino,4.10,4.80,metriä,senttimetriä,100,0.10,0.01,0.01
+hyppää pituutta,Esko,4.20,5.00,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Risto,1.20,1.30,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Anna,1.22,1.32,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Liisa,1.24,1.34,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Marja,1.28,1.38,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Veli,1.32,1.42,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Heino,1.35,1.46,metriä,senttimetriä,100,0.01,0.01,0.01
+hyppää korkeutta,Esko,1.38,1.50,metriä,senttimetriä,100,0.01,0.01,0.01
+saa rahapalkinnon,Anna,50,150,euroa,euroa,1.0,10,10,10
+saa rahapalkinnon,Risto,60,150,euroa,euroa,1.0,10,10,10
+saa rahapalkinnon,Liisa,70,150,euroa,euroa,1.0,10,10,10
+saa rahapalkinnon,Marja,80,150,euroa,euroa,1.0,10,10,10
+saa rahapalkinnon,Esko,90,150,euroa,euroa,1.0,10,10,10
+saa rahapalkinnon,Veli,100,150,euroa,euroa,1.0,10,10,10
+saa rahapalkinnon,Heino,110,150,euroa,euroa,1.0,10,10,10
+valmistaa urheilujuomaa,Anna,0.4,1.4,litraa,desilitraa,10,0.1,0.1,0.1
+valmistaa urheilujuomaa,Risto,0.5,1.5,litraa,desilitraa,10,0.1,0.1,0.1
+valmistaa urheilujuomaa,Liisa,0.6,1.6,litraa,desilitraa,10,0.1,0.1,0.1
+valmistaa urheilujuomaa,Marja,0.7,1.7,litraa,desilitraa,10,0.1,0.1,0.1
+valmistaa urheilujuomaa,Esko,0.8,1.8,litraa,desilitraa,10,0.1,0.1,0.1
+valmistaa urheilujuomaa,Veli,0.9,1.9,litraa,desilitraa,10,0.1,0.1,0.1
+valmistaa urheilujuomaa,Heino,1.0,2.0,litraa,desilitraa,10,0.1,0.1,0.1
+juoksee sata metriä aikaan,Anna,15,17,sekuntia,sekuntia,1.0,1.0,0.1,0.01
+juoksee sata metriä aikaan,Risto,15,17,sekuntia,sekuntia,1.0,1.0,0.1,0.01
+juoksee sata metriä aikaan,Liisa,14,16,sekuntia,sekuntia,1.0,1.0,0.1,0.01
+juoksee sata metriä aikaan,Marja,14,16,sekuntia,sekuntia,1.0,1.0,0.1,0.01
+juoksee sata metriä aikaan,Esko,13,14,sekuntia,sekuntia,1.0,1.0,0.1,0.01
+juoksee sata metriä aikaan,Veli,13,14,sekuntia,sekuntia,1.0,1.0,0.1,0.01
+juoksee sata metriä aikaan,Heino,12,13,sekuntia,sekuntia,1.0,1.0,0.1,0.01
